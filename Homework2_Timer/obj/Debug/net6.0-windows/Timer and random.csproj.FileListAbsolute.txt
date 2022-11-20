@@ -1,0 +1,27 @@
+C:\Users\aless\source\repos\Timer and random\bin\Debug\net6.0-windows\Timer and random.exe
+C:\Users\aless\source\repos\Timer and random\bin\Debug\net6.0-windows\Timer and random.deps.json
+C:\Users\aless\source\repos\Timer and random\bin\Debug\net6.0-windows\Timer and random.runtimeconfig.json
+C:\Users\aless\source\repos\Timer and random\bin\Debug\net6.0-windows\Timer and random.dll
+C:\Users\aless\source\repos\Timer and random\bin\Debug\net6.0-windows\Timer and random.pdb
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer_and_random.Form1.resources
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.AssemblyInfo.cs
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.dll
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\refint\Timer and random.dll
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.pdb
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\Timer and random.genruntimeconfig.cache
+C:\Users\aless\source\repos\Timer and random\obj\Debug\net6.0-windows\ref\Timer and random.dll
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer_and_random.Form1.resources
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.dll
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\refint\Timer and random.dll
+C:\Users\ACER\Desktop\Timer and random\obj\Debug\net6.0-windows\Timer and random.pdb

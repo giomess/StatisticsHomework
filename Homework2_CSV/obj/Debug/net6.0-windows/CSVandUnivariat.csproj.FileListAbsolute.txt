@@ -1,0 +1,51 @@
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.exe
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.deps.json
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.runtimeconfig.json
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.AssemblyReference.cache
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.Form1.resources
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.GenerateResource.cache
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfoInputs.cache
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfo.cs
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.CoreCompileInputs.cache
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\refint\CSVandUnivariat.dll
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.genruntimeconfig.cache
+C:\Users\simte\Documents\Università\Statistics\Homework 2\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\ref\CSVandUnivariat.dll
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.exe
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.deps.json
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.runtimeconfig.json
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.AssemblyReference.cache
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.Form1.resources
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.GenerateResource.cache
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfoInputs.cache
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfo.cs
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.CoreCompileInputs.cache
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\refint\CSVandUnivariat.dll
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.genruntimeconfig.cache
+C:\Users\aless\Downloads\Homework 2 (1)\Homework 2\CSVandUnivariat\obj\Debug\net6.0-windows\ref\CSVandUnivariat.dll
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.exe
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.deps.json
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.runtimeconfig.json
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\bin\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.AssemblyReference.cache
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.Form1.resources
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.GenerateResource.cache
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfoInputs.cache
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.AssemblyInfo.cs
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.csproj.CoreCompileInputs.cache
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.dll
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\refint\CSVandUnivariat.dll
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.pdb
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\CSVandUnivariat.genruntimeconfig.cache
+C:\Users\aless\Downloads\CSVandUnivariat\CSVandUnivariat\CSVandUnivariat\obj\Debug\net6.0-windows\ref\CSVandUnivariat.dll
