@@ -1,0 +1,11 @@
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.csproj.AssemblyReference.cache
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.Form1.resources
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.Properties.Resources.resources
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.csproj.GenerateResource.cache
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.csproj.CoreCompileInputs.cache
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\bin\Debug\sample_distribution.exe.config
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\bin\Debug\sample_distribution.exe
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\bin\Debug\sample_distribution.pdb
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.exe
+C:\Users\AMMI\Desktop\Magistrale\Statistics\sample_distribution\sample_distribution\obj\Debug\sample_distribution.pdb
