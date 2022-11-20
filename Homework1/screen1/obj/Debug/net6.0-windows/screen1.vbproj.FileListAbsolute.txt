@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\screen1\screen1\bin\Debug\net6.0-windows\screen1.exe
+C:\Users\ACER\source\repos\screen1\screen1\bin\Debug\net6.0-windows\screen1.deps.json
+C:\Users\ACER\source\repos\screen1\screen1\bin\Debug\net6.0-windows\screen1.runtimeconfig.json
+C:\Users\ACER\source\repos\screen1\screen1\bin\Debug\net6.0-windows\screen1.dll
+C:\Users\ACER\source\repos\screen1\screen1\bin\Debug\net6.0-windows\screen1.pdb
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.Form1.resources
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.AssemblyInfo.vb
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.dll
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\refint\screen1.dll
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.pdb
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\screen1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\screen1\screen1\obj\Debug\net6.0-windows\ref\screen1.dll
