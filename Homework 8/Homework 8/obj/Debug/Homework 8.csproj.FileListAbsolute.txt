@@ -1,0 +1,22 @@
+C:\Users\eleon\source\repos\Homework 8\Homework 8\bin\Debug\Homework 8.exe.config
+C:\Users\eleon\source\repos\Homework 8\Homework 8\bin\Debug\Homework 8.exe
+C:\Users\eleon\source\repos\Homework 8\Homework 8\bin\Debug\Homework 8.pdb
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.AssemblyReference.cache
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework_8.Form1.resources
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework_8.Properties.Resources.resources
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.GenerateResource.cache
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.CoreCompileInputs.cache
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.exe
+C:\Users\eleon\source\repos\Homework 8\Homework 8\obj\Debug\Homework 8.pdb
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework_8.Form1.resources
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework_8.Properties.Resources.resources
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.exe
+C:\Users\ACER\Desktop\Homework 8\Homework 8\obj\Debug\Homework 8.pdb
+C:\Users\ACER\Desktop\Homework 8\Homework 8\bin\Debug\Homework 8.exe.config
+C:\Users\ACER\Desktop\Homework 8\Homework 8\bin\Debug\Homework 8.exe
+C:\Users\ACER\Desktop\Homework 8\Homework 8\bin\Debug\Homework 8.pdb
